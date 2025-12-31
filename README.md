@@ -67,7 +67,7 @@ Refer to the sample implementation:
 
 ## Notes
 
-- This SDK is intended **only for Shopify merchants** who have installed the InkyBay Product Personalizer app
+- This SDK is intended **only for Shopify merchants** who have installed the [`InkyBay Product Personalizer`](https://apps.shopify.com/productsdesigner) app
 - Ensure proper server security practices when handling order data
 
 ---
