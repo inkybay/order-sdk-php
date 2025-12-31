@@ -14,6 +14,12 @@
 	
 
 	//print_r($data);
+	$dataJson = json_decode($data);
+
+	if(isset($dataJson->order->Error)) {
+		echo "Error: " . $dataJson->order->Error;
+		exit;
+	}
 
 
 
