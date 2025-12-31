@@ -72,5 +72,5 @@ Refer to the sample implementation:
 
 ---
 
-Powered by **ParseLab**  
-https://parselab.com
+Powered by [`ParseLab, LLC`](https://parselab.com)  
+
