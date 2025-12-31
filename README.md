@@ -61,7 +61,7 @@ You may extend or modify the SDK to collect additional order-related information
 
 Refer to the sample implementation:
 
-- [`extract.php`](https://github.com/inkybay/inkybay-shopify-order-sdk/blob/master/extract.php)
+- [`extract.php`](https://github.com/inkybay/order-sdk-php/blob/main/extract.php)
 
 ---
 
