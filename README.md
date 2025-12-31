@@ -72,5 +72,5 @@ Refer to the sample implementation:
 
 ---
 
-Powered by [`ParseLab, LLC`](https://parselab.com)  
+ © [`InkyBay®`](https://inkybay.com), Powered by - [`ParseLab, LLC`](https://parselab.com)  
 
