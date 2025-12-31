@@ -57,6 +57,7 @@ After updating the hook URL:
 
 ### 4. Customizing Order Data Collection
 
+Make sure the orders folder is writable by the PHP runtime.
 You may extend or modify the SDK to collect additional order-related information.
 
 Refer to the sample implementation:
@@ -69,6 +70,7 @@ Refer to the sample implementation:
 
 - This SDK is intended **only for Shopify merchants** who have installed the [`InkyBay Product Personalizer`](https://apps.shopify.com/productsdesigner) app
 - Ensure proper server security practices when handling order data
+- Ensure your orders folder has write permission for PHP
 
 ---
 
